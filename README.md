@@ -1,4 +1,4 @@
- 📊 # **HR Analytics Dashboard Project**
+## 📊  **HR Analytics Dashboard Project**
 
 This project explores HR employee attrition data using Excel-based analytics, with the goal of identifying key factors that lead to attrition and delivering actionable insights through a well-structured dashboard.
 
